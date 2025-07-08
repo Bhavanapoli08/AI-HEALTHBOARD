@@ -1,0 +1,24 @@
+{
+  "name": "John Doe",
+  "email": "john@example.com",
+  "password": "securePassword123",
+  "role": "patient",
+  "medicalConditions": ["hypertension", "diabetes"],
+  "medications": [
+    {
+      "name": "Amlodipine",
+      "dosage": "5mg",
+      "frequency": "once daily"
+    },
+    {
+      "name": "Metformin",
+      "dosage": "500mg",
+      "frequency": "twice daily"
+    }
+  ],
+  "emergencyContact": {
+    "name": "Jane Doe",
+    "relationship": "Sister",
+    "phoneNumber": "9876543210"
+  }
+}
