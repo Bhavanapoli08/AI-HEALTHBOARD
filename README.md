@@ -85,9 +85,11 @@ Training: 3 epochs, TPU VM v3-8, 1.5M trainable params
 
 Results:
 
-Model	Loss	Perplexity
-BioGPT-Large (base)	12.37	237016.3
-BioGPT-PubMedQA-Prefix-Tuned	9.20	1350.9
+| **Model**                    | **Loss** | **Perplexity** |
+| ---------------------------- | -------- | -------------- |
+| BioGPT-Large (base)          | 12.37    | 237016.3       |
+| BioGPT-PubMedQA-Prefix-Tuned | 9.20     | 1350.9         |
+
 
 ☁️ Deployment
 Model hosted on Hugging Face
@@ -157,11 +159,13 @@ AI-HEALTHBOARD/
 ├── package-lock.json
 
 🛠 Technologies Used
-Category	Technologies
-Mobile Development	Android Studio, Kotlin, Java, XML, XML, Gson
-Backend	Node.js, PHP, MySQL
-IoT Hardware	Arduino Nano, ESP8266, C/C++, Proteus
-AI/NLP	Python, PyTorch, Hugging Face, BioGPT
-API & Deployment	Hugging Face Inference API
-Testing	JUnit, Espresso, LiveData, ViewModel
+| **Category**           | **Technologies**                        |
+| ---------------------- | --------------------------------------- |
+| **Mobile Development** | Android Studio, Kotlin, Java, XML, Gson |
+| **Backend**            | Node.js, PHP, MySQL                     |
+| **IoT Hardware**       | Arduino Nano, ESP8266, C/C++, Proteus   |
+| **AI/NLP**             | Python, PyTorch, Hugging Face, BioGPT   |
+| **API & Deployment**   | Hugging Face Inference API              |
+| **Testing**            | JUnit, Espresso, LiveData, ViewModel    |
+
 
